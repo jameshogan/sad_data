@@ -41,7 +41,7 @@ Rscript data_cleaning.r
 | Coleoptera                        | Coleoptera     | Public       | 5           | Baldridge (2013)                              |
 | Arachnida                         | Arachnida      | Public       | 25          | Baldridge (2013)                              |
 | BCI Forest Dynamcis Plot          | BCI            | Request      | 1-1250 * 7  | Hubbell and Foster 1983; Condit et al. (2012) |
-| Lambir Forest Dynamics Plot       | Lambir         | Request      | 1-1300 * 3  | Condit 1998; Ashotn et al. 1999               |
+| Lambir Forest Dynamics Plot       | Lambir         | Request      | 1-1300 * 3  | Condit 1998; Ashton et al. 1999               |
 | Freshwater phytoplankton 2007     | EPA2007        | Public       | > 500       | U.S. Environmental Protection Agency. 2010    |
 | Freshwater phytoplankton 2012     | EPA2012        | Public       | > 500       | U.S. Environmental Protection Agency. 2016    |
 | Global ant abundacnes             | Ants           | Public       | > 1000      | Gibb et al. 2017                              |
